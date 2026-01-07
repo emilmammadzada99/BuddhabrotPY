@@ -34,5 +34,5 @@ This implementation:
 
 ## 📸 Example Output
 
-Rendered image is saved as:
+![Buddhabrot Fractal](buddhabrot_1920x1080.png)
 
